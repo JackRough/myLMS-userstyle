@@ -19,7 +19,7 @@ h2.title a {
 }
 
 
-#block-region-side-pre, footer, #block-region-side-post {
+#block-region-side-pre, footer, #block-region-side-post, #inst19 {
  	display: none !important;   
 }
 
