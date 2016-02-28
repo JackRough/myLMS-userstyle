@@ -1,0 +1,26 @@
+@-moz-document domain("mylms.cti.ac.za") {
+body  #page  section  div.row-fluid  #region-main {
+    border: 0 !important;
+    padding: 0 !important;
+    width: 100%;
+}
+
+
+h2.title a {
+    font-size: 16px !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+}
+
+
+.box.coursebox {
+    padding: 0 !important;
+    border: 0 !important;
+}
+
+
+#block-region-side-pre, footer, #block-region-side-post {
+ 	display: none !important;   
+}
+
+}
